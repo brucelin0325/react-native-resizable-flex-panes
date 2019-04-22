@@ -6,4 +6,5 @@ Elements:
 3. Bottom pane
 
 Result:
+
 <img src="https://github.com/brucelin0325/resizable_layout/blob/master/Result.png">
