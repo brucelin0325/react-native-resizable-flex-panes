@@ -1,5 +1,4 @@
-# resizable_layout
-React Native resizable layout. 
+# React Native Resizable Flex Panes with splitter
 
 Elements: Top pane, Divider, Bottom pane
 
