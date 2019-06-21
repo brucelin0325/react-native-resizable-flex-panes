@@ -1,4 +1,4 @@
-# React Native Resizable Flex Panes with splitter
+# React Native Resizable Flex Panes with draggable splitter
 
 Elements: 
 1. Top pane
