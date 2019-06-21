@@ -2,7 +2,7 @@
 
 Elements: 
 1. Top pane
-2. Divider (draggable)
+2. Splitter (draggable)
 3. Bottom pane
 
 Result:
