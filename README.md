@@ -5,9 +5,9 @@ Elements:
 2. Splitter (draggable)
 3. Bottom pane
 
-Goals:
-Resize panes by draging & drop the splitter bar. 
-Min height for pane header if needed. 
+Achieved Goals:
+- Resize panes by draging & drop the splitter bar
+- Min height for pane header if needed 
 
 Result:
 
