@@ -16,9 +16,6 @@ export default class MyComponent extends Component {
             pan             : new Animated.ValueXY()
         }
 
-    }
-
-    componentWillMount() {
         this._panResponder = PanResponder.create({
             onMoveShouldSetResponderCapture: () => true,
             onMoveShouldSetPanResponderCapture: () => true,
@@ -60,6 +57,7 @@ export default class MyComponent extends Component {
                     style       = {[{backgroundColor: 'pink', minHeight: 40, flex: 1}, {height: this.state.topHeight}]}
 
                 >
+                 {this.props.childone?this.props.childone:null}
                 </Animated.View>
 
                 {/* Divider */}
@@ -74,6 +72,7 @@ export default class MyComponent extends Component {
                     style={[{backgroundColor: 'green', minHeight: 40}, {height: this.state.bottomHeight}]} 
 
                 >
+                 {this.props.childTwo?this.props.childTwo:null}
                 </Animated.View>
             </View>
         )
